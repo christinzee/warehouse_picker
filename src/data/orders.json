@@ -1,0 +1,403 @@
+[
+  {
+    "orderId": "ORD-001",
+    "orderTotal": 250,
+    "orderDate": "2025-06-13",
+    "shippingAddress": {
+      "street": "123 Main St",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "John Doe",
+    "customerEmail": "john.doe@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "VALENTINE-BOX",
+        "productName": "Valentine Box",
+        "price": 250,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-002",
+    "orderTotal": 200,
+    "orderDate": "2025-06-13",
+    "shippingAddress": {
+      "street": "456 Oak Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "John Doe",
+    "customerEmail": "john.doe@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 200,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-003",
+    "orderTotal": 150,
+    "orderDate": "2025-06-13",
+    "shippingAddress": {
+      "street": "789 Pine St",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": "H3B 1A0",
+      "country": "Canada"
+    },
+    "customerName": "John Doe",
+    "customerEmail": "john.doe@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "CLIENT-BOX",
+        "productName": "Client Box",
+        "price": 150,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-004",
+    "orderTotal": 400,
+    "orderDate": "2025-06-14",
+    "shippingAddress": {
+      "street": "321 Elm St",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "Jane Smith",
+    "customerEmail": "jane.smith@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "VALENTINE-BOX",
+        "productName": "Valentine Box",
+        "price": 250,
+        "quantity": 1
+      },
+      {
+        "lineItemId": "LI-002",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 150,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-005",
+    "orderTotal": 600,
+    "orderDate": "2025-06-14",
+    "shippingAddress": {
+      "street": "654 Maple Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "Alice Brown",
+    "customerEmail": "alice.brown@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "CLIENT-BOX",
+        "productName": "Client Box",
+        "price": 150,
+        "quantity": 2
+      },
+      {
+        "lineItemId": "LI-002",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 300,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-006",
+    "orderTotal": 250,
+    "orderDate": "2025-06-15",
+    "shippingAddress": {
+      "street": "987 Cedar St",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": "H3B 1A0",
+      "country": "Canada"
+    },
+    "customerName": "Bob Lee",
+    "customerEmail": "bob.lee@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "VALENTINE-BOX",
+        "productName": "Valentine Box",
+        "price": 250,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-007",
+    "orderTotal": 350,
+    "orderDate": "2025-06-15",
+    "shippingAddress": {
+      "street": "147 Birch Rd",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "Carol White",
+    "customerEmail": "carol.white@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 200,
+        "quantity": 1
+      },
+      {
+        "lineItemId": "LI-002",
+        "productId": "CLIENT-BOX",
+        "productName": "Client Box",
+        "price": 150,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-008",
+    "orderTotal": 450,
+    "orderDate": "2025-06-15",
+    "shippingAddress": {
+      "street": "258 Spruce Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "David Green",
+    "customerEmail": "david.green@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "VALENTINE-BOX",
+        "productName": "Valentine Box",
+        "price": 250,
+        "quantity": 1
+      },
+      {
+        "lineItemId": "LI-002",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 200,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-009",
+    "orderTotal": 300,
+    "orderDate": "2025-06-16",
+    "shippingAddress": {
+      "street": "369 Willow St",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": "H3B 1A0",
+      "country": "Canada"
+    },
+    "customerName": "Eve Black",
+    "customerEmail": "eve.black@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "CLIENT-BOX",
+        "productName": "Client Box",
+        "price": 150,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-010",
+    "orderTotal": 600,
+    "orderDate": "2025-06-16",
+    "shippingAddress": {
+      "street": "741 Poplar Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "Frank Blue",
+    "customerEmail": "frank.blue@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "VALENTINE-BOX",
+        "productName": "Valentine Box",
+        "price": 250,
+        "quantity": 2
+      },
+      {
+        "lineItemId": "LI-002",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 200,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-011",
+    "orderTotal": 150,
+    "orderDate": "2025-06-16",
+    "shippingAddress": {
+      "street": "852 Chestnut St",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "Grace Red",
+    "customerEmail": "grace.red@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "CLIENT-BOX",
+        "productName": "Client Box",
+        "price": 150,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-012",
+    "orderTotal": 400,
+    "orderDate": "2025-06-17",
+    "shippingAddress": {
+      "street": "852 Aspen Rd",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": "H3B 1A0",
+      "country": "Canada"
+    },
+    "customerName": "Hank Violet",
+    "customerEmail": "hank.violet@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 200,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-013",
+    "orderTotal": 650,
+    "orderDate": "2025-06-17",
+    "shippingAddress": {
+      "street": "369 Poplar Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "Ivy Indigo",
+    "customerEmail": "ivy.indigo@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "VALENTINE-BOX",
+        "productName": "Valentine Box",
+        "price": 250,
+        "quantity": 1
+      },
+      {
+        "lineItemId": "LI-002",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 200,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-014",
+    "orderTotal": 600,
+    "orderDate": "2025-06-18",
+    "shippingAddress": {
+      "street": "147 Fir St",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": "M5V 3A8",
+      "country": "Canada"
+    },
+    "customerName": "Jack Orange",
+    "customerEmail": "jack.orange@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "CLIENT-BOX",
+        "productName": "Client Box",
+        "price": 150,
+        "quantity": 2
+      },
+      {
+        "lineItemId": "LI-002",
+        "productId": "VALENTINE-BOX",
+        "productName": "Valentine Box",
+        "price": 300,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-015",
+    "orderTotal": 350,
+    "orderDate": "2025-06-18",
+    "shippingAddress": {
+      "street": "258 Redwood Blvd",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": "H3B 1A0",
+      "country": "Canada"
+    },
+    "customerName": "Kara Yellow",
+    "customerEmail": "kara.yellow@example.com",
+    "lineItems": [
+      {
+        "lineItemId": "LI-001",
+        "productId": "BIRTHDAY-BOX",
+        "productName": "Birthday Box",
+        "price": 200,
+        "quantity": 1
+      },
+      {
+        "lineItemId": "LI-002",
+        "productId": "CLIENT-BOX",
+        "productName": "Client Box",
+        "price": 150,
+        "quantity": 1
+      }
+    ]
+  }
+]

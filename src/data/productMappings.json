@@ -1,0 +1,72 @@
+[
+  {
+    "VALENTINE-BOX": {
+      "name": "Valentine Box",
+      "price": 250,
+      "components": [
+        {
+          "productId": "ROSES-RED",
+          "name": "Red Roses Bouquet",
+          "quantity": 1
+        },
+        {
+          "productId": "CHOCOLATES",
+          "name": "Box of Chocolates",
+          "quantity": 1
+        },
+        { "productId": "LOVE-CARD", "name": "Love Card", "quantity": 1 },
+        {
+          "productId": "PERFUME-WOMEN",
+          "name": "Women's Perfume",
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "BIRTHDAY-BOX": {
+      "name": "Birthday Box",
+      "price": 200,
+      "components": [
+        {
+          "productId": "BIRTHDAY-CUPCAKE",
+          "name": "Birthday Cupcake",
+          "quantity": 1
+        },
+        {
+          "productId": "GIFT-CARD",
+          "name": "$100 Visa Gift Card",
+          "quantity": 1
+        },
+        {
+          "productId": "BIRTHDAY-CARD",
+          "name": "Birthday Card",
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "CLIENT-BOX": {
+      "name": "Client Box",
+      "price": 150,
+      "components": [
+        {
+          "productId": "WINE-BOTTLE",
+          "name": "Bottle of Wine",
+          "quantity": 1
+        },
+        {
+          "productId": "FRUIT-BASKET",
+          "name": "Fruit Basket",
+          "quantity": 1
+        },
+        {
+          "productId": "PEN",
+          "name": "Pen",
+          "quantity": 1
+        }
+      ]
+    }
+  }
+]
